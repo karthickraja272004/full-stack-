@@ -1,0 +1,582 @@
+2026-07-16 10:25:05,359 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:25:05,360 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 10:25:05,361 - INFO -  * Restarting with stat
+2026-07-16 10:25:05,699 - WARNING -  * Debugger is active!
+2026-07-16 10:25:05,701 - INFO -  * Debugger PIN: 769-364-217
+2026-07-16 10:34:38,363 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:34:38,364 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 10:34:38,365 - INFO -  * Restarting with stat
+2026-07-16 10:34:38,635 - WARNING -  * Debugger is active!
+2026-07-16 10:34:38,637 - INFO -  * Debugger PIN: 769-364-217
+2026-07-16 10:46:28,056 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:46:28,057 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 10:46:28,058 - INFO -  * Restarting with stat
+2026-07-16 10:46:28,330 - WARNING -  * Debugger is active!
+2026-07-16 10:46:28,332 - INFO -  * Debugger PIN: 769-364-217
+2026-07-16 10:48:36,600 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:48:36,600 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 10:48:36,601 - INFO -  * Restarting with stat
+2026-07-16 10:48:36,863 - WARNING -  * Debugger is active!
+2026-07-16 10:48:36,865 - INFO -  * Debugger PIN: 769-364-217
+2026-07-16 10:49:39,442 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:49:39,442 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 10:49:39,443 - INFO -  * Restarting with stat
+2026-07-16 10:49:39,708 - WARNING -  * Debugger is active!
+2026-07-16 10:49:39,710 - INFO -  * Debugger PIN: 769-364-217
+2026-07-16 10:51:40,870 - INFO - 127.0.0.1 - - [16/Jul/2026 10:51:40] "[33mGET /users/-1 HTTP/1.1[0m" 404 -
+2026-07-16 10:51:40,898 - INFO - 127.0.0.1 - - [16/Jul/2026 10:51:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-16 10:51:48,770 - INFO - 127.0.0.1 - - [16/Jul/2026 10:51:48] "[33mGET /users/-1 HTTP/1.1[0m" 404 -
+2026-07-16 10:51:55,767 - INFO - Users API called
+2026-07-16 10:51:55,768 - INFO - 127.0.0.1 - - [16/Jul/2026 10:51:55] "[33mGET /users/112 HTTP/1.1[0m" 404 -
+2026-07-16 10:52:22,093 - INFO - Users API called
+2026-07-16 10:52:22,094 - INFO - 127.0.0.1 - - [16/Jul/2026 10:52:22] "GET /users/88 HTTP/1.1" 200 -
+2026-07-16 10:53:46,172 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:53:46,172 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 10:53:46,173 - INFO -  * Restarting with stat
+2026-07-16 10:53:46,428 - WARNING -  * Debugger is active!
+2026-07-16 10:53:46,430 - INFO -  * Debugger PIN: 769-364-217
+2026-07-16 10:55:28,801 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-16 10:55:28,842 - INFO -  * Restarting with stat
+2026-07-16 10:56:22,309 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:56:22,309 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 10:56:22,310 - INFO -  * Restarting with stat
+2026-07-16 10:56:22,592 - WARNING -  * Debugger is active!
+2026-07-16 10:56:22,594 - INFO -  * Debugger PIN: 769-364-217
+2026-07-16 10:57:44,903 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-16 10:57:44,991 - INFO -  * Restarting with stat
+2026-07-16 10:57:56,699 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-16 10:57:56,699 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-16 14:48:55,150 - INFO - Users API called
+2026-07-16 14:48:55,159 - INFO - 127.0.0.1 - - [16/Jul/2026 14:48:55] "GET /users/88 HTTP/1.1" 200 -
+2026-07-16 15:29:57,441 - INFO - 127.0.0.1 - - [16/Jul/2026 15:29:57] "[33mGET /users/organization HTTP/1.1[0m" 404 -
+2026-07-16 15:30:09,168 - INFO - 127.0.0.1 - - [16/Jul/2026 15:30:09] "GET /organization HTTP/1.1" 200 -
+2026-07-16 15:38:28,995 - INFO - 127.0.0.1 - - [16/Jul/2026 15:38:28] "[33mGET /112 HTTP/1.1[0m" 404 -
+2026-07-16 15:38:49,202 - INFO - 127.0.0.1 - - [16/Jul/2026 15:38:49] "[33mGET /112 HTTP/1.1[0m" 404 -
+2026-07-16 15:38:57,489 - INFO - Users API called
+2026-07-16 15:38:57,489 - INFO - 127.0.0.1 - - [16/Jul/2026 15:38:57] "[33mGET /users/112 HTTP/1.1[0m" 404 -
+2026-07-16 15:39:21,869 - INFO - Users API called
+2026-07-16 15:39:21,871 - INFO - 127.0.0.1 - - [16/Jul/2026 15:39:21] "GET /users/88 HTTP/1.1" 200 -
+2026-07-16 15:53:23,657 - INFO - 127.0.0.1 - - [16/Jul/2026 15:53:23] "GET /status HTTP/1.1" 200 -
+2026-07-16 15:53:43,152 - INFO - 127.0.0.1 - - [16/Jul/2026 15:53:43] "[33mGET /health HTTP/1.1[0m" 404 -
+2026-07-16 15:54:53,016 - INFO - 127.0.0.1 - - [16/Jul/2026 15:54:53] "[33mGET /health HTTP/1.1[0m" 404 -
+2026-07-16 15:54:59,012 - INFO - 127.0.0.1 - - [16/Jul/2026 15:54:59] "[33mGET /404 HTTP/1.1[0m" 404 -
+2026-07-16 15:55:02,131 - INFO - 127.0.0.1 - - [16/Jul/2026 15:55:02] "[33mGET /404 HTTP/1.1[0m" 404 -
+2026-07-17 13:03:09,086 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 13:03:09,087 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-17 13:03:16,343 - INFO - 127.0.0.1 - - [17/Jul/2026 13:03:16] "[33mGET /hii HTTP/1.1[0m" 404 -
+2026-07-17 13:03:16,398 - INFO - 127.0.0.1 - - [17/Jul/2026 13:03:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-17 13:03:22,349 - INFO - 127.0.0.1 - - [17/Jul/2026 13:03:22] "[33mGET /hii HTTP/1.1[0m" 404 -
+2026-07-17 13:08:45,914 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 13:08:45,915 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-17 13:08:45,916 - INFO -  * Restarting with stat
+2026-07-17 13:08:46,136 - WARNING -  * Debugger is active!
+2026-07-17 13:08:46,139 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 13:11:52,604 - INFO - 127.0.0.1 - - [17/Jul/2026 13:11:52] "GET / HTTP/1.1" 200 -
+2026-07-17 13:12:57,689 - INFO - Users API called
+2026-07-17 13:12:57,690 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:12:57,690 - INFO - 127.0.0.1 - - [17/Jul/2026 13:12:57] "[35m[1mGET /users/0 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:03,016 - INFO - Users API called
+2026-07-17 13:13:03,017 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:03,019 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:03] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:05,535 - INFO - Users API called
+2026-07-17 13:13:05,536 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:05,536 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:05] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:06,179 - INFO - Users API called
+2026-07-17 13:13:06,180 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:06,180 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:06] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:06,488 - INFO - Users API called
+2026-07-17 13:13:06,489 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:06,489 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:06] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:06,678 - INFO - Users API called
+2026-07-17 13:13:06,679 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:06,679 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:06] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:06,826 - INFO - Users API called
+2026-07-17 13:13:06,826 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:06,827 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:06] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:06,992 - INFO - Users API called
+2026-07-17 13:13:06,993 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:06,993 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:06] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:07,296 - INFO - Users API called
+2026-07-17 13:13:07,296 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:07,296 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:07] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:29,608 - INFO - Users API called
+2026-07-17 13:13:29,609 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:29,609 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:29] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:32,784 - INFO - Users API called
+2026-07-17 13:13:32,784 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:32,785 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:32] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:33,660 - INFO - Users API called
+2026-07-17 13:13:33,660 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:33,661 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:33] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:33,994 - INFO - Users API called
+2026-07-17 13:13:33,994 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:33,994 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:33] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 13:13:34,330 - INFO - Users API called
+2026-07-17 13:13:34,330 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-07-17 13:13:34,331 - INFO - 127.0.0.1 - - [17/Jul/2026 13:13:34] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 15:49:24,826 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-17 15:49:24,898 - INFO -  * Restarting with stat
+2026-07-17 15:49:25,157 - WARNING -  * Debugger is active!
+2026-07-17 15:49:25,159 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 15:49:27,174 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-17 15:49:27,215 - INFO -  * Restarting with stat
+2026-07-17 15:49:27,452 - WARNING -  * Debugger is active!
+2026-07-17 15:49:27,453 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 15:49:29,470 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-17 15:49:29,517 - INFO -  * Restarting with stat
+2026-07-17 15:49:29,784 - WARNING -  * Debugger is active!
+2026-07-17 15:49:29,786 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 15:49:56,887 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-17 15:49:56,931 - INFO -  * Restarting with stat
+2026-07-17 15:49:57,152 - WARNING -  * Debugger is active!
+2026-07-17 15:49:57,155 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 15:49:58,166 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-17 15:49:58,206 - INFO -  * Restarting with stat
+2026-07-17 15:49:58,471 - WARNING -  * Debugger is active!
+2026-07-17 15:49:58,473 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 15:49:59,485 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-17 15:49:59,559 - INFO -  * Restarting with stat
+2026-07-17 15:50:00,339 - WARNING -  * Debugger is active!
+2026-07-17 15:50:00,342 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 15:50:02,367 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-17 15:50:02,405 - INFO -  * Restarting with stat
+2026-07-17 15:50:02,653 - WARNING -  * Debugger is active!
+2026-07-17 15:50:02,655 - INFO -  * Debugger PIN: 769-364-217
+2026-07-17 15:52:25,910 - INFO - Users API called
+2026-07-17 15:52:25,911 - ERROR - 'function' object is not iterable
+2026-07-17 15:52:25,912 - INFO - 127.0.0.1 - - [17/Jul/2026 15:52:25] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-17 15:52:31,890 - INFO - Users API called
+2026-07-17 15:52:31,890 - ERROR - 'function' object is not iterable
+2026-07-17 15:52:31,891 - INFO - 127.0.0.1 - - [17/Jul/2026 15:52:31] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-17 15:52:37,774 - INFO - Users API called
+2026-07-17 15:52:37,776 - ERROR - 'function' object is not iterable
+2026-07-17 15:52:37,776 - INFO - 127.0.0.1 - - [17/Jul/2026 15:52:37] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-17 15:52:41,037 - INFO - Users API called
+2026-07-17 15:52:41,038 - ERROR - 'function' object is not iterable
+2026-07-17 15:52:41,039 - INFO - 127.0.0.1 - - [17/Jul/2026 15:52:41] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-18 09:58:23,324 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-18 09:58:23,325 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-18 09:58:23,326 - INFO -  * Restarting with stat
+2026-07-18 09:58:23,549 - WARNING -  * Debugger is active!
+2026-07-18 09:58:23,554 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 09:59:33,972 - INFO - Users API called
+2026-07-18 09:59:33,972 - ERROR - 'function' object is not iterable
+2026-07-18 09:59:33,973 - INFO - 127.0.0.1 - - [18/Jul/2026 09:59:33] "[35m[1mGET /users/1 HTTP/1.1[0m" 500 -
+2026-07-18 09:59:34,015 - INFO - 127.0.0.1 - - [18/Jul/2026 09:59:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-18 10:11:48,316 - INFO - Users API called
+2026-07-18 10:11:48,340 - ERROR - 'function' object is not iterable
+2026-07-18 10:11:48,340 - INFO - 127.0.0.1 - - [18/Jul/2026 10:11:48] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:11:51,959 - INFO - Users API called
+2026-07-18 10:11:51,960 - ERROR - 'function' object is not iterable
+2026-07-18 10:11:51,960 - INFO - 127.0.0.1 - - [18/Jul/2026 10:11:51] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:11:52,115 - INFO - Users API called
+2026-07-18 10:11:52,115 - ERROR - 'function' object is not iterable
+2026-07-18 10:11:52,116 - INFO - 127.0.0.1 - - [18/Jul/2026 10:11:52] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:11:52,344 - INFO - Users API called
+2026-07-18 10:11:52,345 - ERROR - 'function' object is not iterable
+2026-07-18 10:11:52,346 - INFO - 127.0.0.1 - - [18/Jul/2026 10:11:52] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:11:55,003 - INFO - Users API called
+2026-07-18 10:11:55,004 - ERROR - 'function' object is not iterable
+2026-07-18 10:11:55,004 - INFO - 127.0.0.1 - - [18/Jul/2026 10:11:55] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:11:55,159 - INFO - Users API called
+2026-07-18 10:11:55,160 - ERROR - 'function' object is not iterable
+2026-07-18 10:11:55,160 - INFO - 127.0.0.1 - - [18/Jul/2026 10:11:55] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:11:55,374 - INFO - Users API called
+2026-07-18 10:11:55,375 - ERROR - 'function' object is not iterable
+2026-07-18 10:11:55,375 - INFO - 127.0.0.1 - - [18/Jul/2026 10:11:55] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:55,343 - INFO - Users API called
+2026-07-18 10:39:55,344 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:55,344 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:55] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:56,111 - INFO - Users API called
+2026-07-18 10:39:56,111 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:56,111 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:56] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:56,282 - INFO - Users API called
+2026-07-18 10:39:56,283 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:56,283 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:56] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:56,447 - INFO - Users API called
+2026-07-18 10:39:56,448 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:56,448 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:56] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:56,783 - INFO - Users API called
+2026-07-18 10:39:56,784 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:56,784 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:56] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:56,945 - INFO - Users API called
+2026-07-18 10:39:56,945 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:56,946 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:56] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:57,098 - INFO - Users API called
+2026-07-18 10:39:57,098 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:57,098 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:57] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:57,256 - INFO - Users API called
+2026-07-18 10:39:57,257 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:57,257 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:57] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:39:57,467 - INFO - Users API called
+2026-07-18 10:39:57,467 - ERROR - 'function' object is not iterable
+2026-07-18 10:39:57,468 - INFO - 127.0.0.1 - - [18/Jul/2026 10:39:57] "[35m[1mGET /users/2 HTTP/1.1[0m" 500 -
+2026-07-18 10:41:13,430 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-18 10:41:13,482 - INFO -  * Restarting with stat
+2026-07-18 10:41:14,483 - WARNING -  * Debugger is active!
+2026-07-18 10:41:14,484 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 10:41:15,547 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-18 10:41:15,600 - INFO -  * Restarting with stat
+2026-07-18 10:41:15,865 - WARNING -  * Debugger is active!
+2026-07-18 10:41:15,866 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 10:41:19,891 - INFO - Users API called
+2026-07-18 10:41:19,893 - INFO - 127.0.0.1 - - [18/Jul/2026 10:41:19] "GET /users/2 HTTP/1.1" 200 -
+2026-07-18 12:23:15,653 - INFO - Users API called
+2026-07-18 12:23:15,659 - INFO - 127.0.0.1 - - [18/Jul/2026 12:23:15] "GET /users/1 HTTP/1.1" 200 -
+2026-07-18 12:23:23,284 - INFO - Users API called
+2026-07-18 12:23:23,287 - INFO - 127.0.0.1 - - [18/Jul/2026 12:23:23] "GET /users/3 HTTP/1.1" 200 -
+2026-07-18 12:23:27,956 - INFO - Users API called
+2026-07-18 12:23:27,958 - INFO - 127.0.0.1 - - [18/Jul/2026 12:23:27] "[33mGET /users/4 HTTP/1.1[0m" 404 -
+2026-07-18 13:38:06,987 - INFO - Users API called
+2026-07-18 13:38:06,990 - INFO - 127.0.0.1 - - [18/Jul/2026 13:38:06] "GET /users/2 HTTP/1.1" 200 -
+2026-07-18 15:22:23,812 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-18 15:22:23,898 - INFO -  * Restarting with stat
+2026-07-18 15:34:23,120 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-18 15:34:23,121 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-18 15:34:23,123 - INFO -  * Restarting with stat
+2026-07-18 15:34:23,374 - WARNING -  * Debugger is active!
+2026-07-18 15:34:23,376 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 15:34:28,434 - INFO - 127.0.0.1 - - [18/Jul/2026 15:34:28] "GET / HTTP/1.1" 200 -
+2026-07-18 15:34:37,244 - INFO - 127.0.0.1 - - [18/Jul/2026 15:34:37] "GET / HTTP/1.1" 200 -
+2026-07-18 15:36:29,716 - INFO - Users API called
+2026-07-18 15:36:29,718 - INFO - 127.0.0.1 - - [18/Jul/2026 15:36:29] "[33mGET /users/0 HTTP/1.1[0m" 404 -
+2026-07-18 15:36:36,290 - INFO - 127.0.0.1 - - [18/Jul/2026 15:36:36] "[33mGET /users/ HTTP/1.1[0m" 404 -
+2026-07-18 15:36:49,773 - INFO - Get All Users API called
+2026-07-18 15:36:49,774 - INFO - 127.0.0.1 - - [18/Jul/2026 15:36:49] "GET /users HTTP/1.1" 200 -
+2026-07-18 15:37:05,337 - INFO - Users API called
+2026-07-18 15:37:05,339 - INFO - 127.0.0.1 - - [18/Jul/2026 15:37:05] "GET /users/1 HTTP/1.1" 200 -
+2026-07-18 15:37:21,730 - INFO - Organization API called
+2026-07-18 15:37:21,732 - INFO - 127.0.0.1 - - [18/Jul/2026 15:37:21] "GET /organization HTTP/1.1" 200 -
+2026-07-18 15:39:15,569 - INFO - Get All Users API called
+2026-07-18 15:39:15,569 - ERROR - [Errno 2] No such file or directory: 'users.json'
+2026-07-18 15:39:15,572 - INFO - 127.0.0.1 - - [18/Jul/2026 15:39:15] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2026-07-18 15:47:21,220 - INFO - Get All Users API called
+2026-07-18 15:47:21,220 - ERROR - [Errno 2] No such file or directory: 'users.json'
+2026-07-18 15:47:21,221 - INFO - 127.0.0.1 - - [18/Jul/2026 15:47:21] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2026-07-18 15:47:22,478 - INFO - Get All Users API called
+2026-07-18 15:47:22,482 - ERROR - [Errno 2] No such file or directory: 'users.json'
+2026-07-18 15:47:22,482 - INFO - 127.0.0.1 - - [18/Jul/2026 15:47:22] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2026-07-18 15:54:41,914 - INFO - Get All Users API called
+2026-07-18 15:54:41,915 - INFO - 127.0.0.1 - - [18/Jul/2026 15:54:41] "GET /users HTTP/1.1" 200 -
+2026-07-18 15:54:52,922 - INFO - Get All Users API called
+2026-07-18 15:54:52,923 - ERROR - Expecting ',' delimiter: line 23 column 1 (char 459)
+2026-07-18 15:54:52,924 - INFO - 127.0.0.1 - - [18/Jul/2026 15:54:52] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2026-07-18 15:55:09,612 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-18 15:55:09,657 - INFO -  * Restarting with stat
+2026-07-18 15:55:09,923 - WARNING -  * Debugger is active!
+2026-07-18 15:55:09,926 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 15:55:13,979 - INFO - Get All Users API called
+2026-07-18 15:55:13,980 - ERROR - Expecting ',' delimiter: line 23 column 1 (char 459)
+2026-07-18 15:55:13,981 - INFO - 127.0.0.1 - - [18/Jul/2026 15:55:13] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2026-07-18 15:55:15,208 - INFO - Get All Users API called
+2026-07-18 15:55:15,208 - ERROR - Expecting ',' delimiter: line 23 column 1 (char 459)
+2026-07-18 15:55:15,209 - INFO - 127.0.0.1 - - [18/Jul/2026 15:55:15] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2026-07-18 15:56:52,795 - INFO - Get All Users API called
+2026-07-18 15:56:52,797 - INFO - 127.0.0.1 - - [18/Jul/2026 15:56:52] "GET /users HTTP/1.1" 200 -
+2026-07-18 16:22:57,976 - INFO - Get All Users API called
+2026-07-18 16:22:57,978 - INFO - 127.0.0.1 - - [18/Jul/2026 16:22:57] "GET /users HTTP/1.1" 200 -
+2026-07-18 16:23:03,644 - INFO - Users API called
+2026-07-18 16:23:03,645 - INFO - 127.0.0.1 - - [18/Jul/2026 16:23:03] "[33mGET /users/999 HTTP/1.1[0m" 404 -
+2026-07-18 17:02:39,029 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-18 17:02:39,029 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-18 17:02:39,030 - INFO -  * Restarting with stat
+2026-07-18 17:02:39,283 - WARNING -  * Debugger is active!
+2026-07-18 17:02:39,285 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 17:27:16,353 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.137:5000
+2026-07-18 17:27:16,353 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-18 17:27:16,355 - INFO -  * Restarting with stat
+2026-07-18 17:27:16,669 - WARNING -  * Debugger is active!
+2026-07-18 17:27:16,671 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 17:27:24,149 - INFO - Get All Users API called
+2026-07-18 17:27:24,173 - INFO - 127.0.0.1 - - [18/Jul/2026 17:27:24] "GET /users HTTP/1.1" 200 -
+2026-07-18 17:28:49,005 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-18 17:28:49,047 - INFO -  * Restarting with stat
+2026-07-18 17:32:04,355 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.137:5000
+2026-07-18 17:32:04,355 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-18 17:32:04,356 - INFO -  * Restarting with stat
+2026-07-18 17:32:04,595 - WARNING -  * Debugger is active!
+2026-07-18 17:32:04,597 - INFO -  * Debugger PIN: 769-364-217
+2026-07-18 17:32:15,248 - INFO - Get All Users API called
+2026-07-18 17:32:15,249 - INFO - 127.0.0.1 - - [18/Jul/2026 17:32:15] "GET /users HTTP/1.1" 200 -
+2026-07-20 10:28:23,043 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.137:5000
+2026-07-20 10:28:23,043 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-20 10:28:23,045 - INFO -  * Restarting with stat
+2026-07-20 10:28:23,293 - WARNING -  * Debugger is active!
+2026-07-20 10:28:23,295 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 10:38:28,452 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 10:38:28,496 - INFO -  * Restarting with stat
+2026-07-20 10:38:28,809 - WARNING -  * Debugger is active!
+2026-07-20 10:38:28,811 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 10:38:29,829 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 10:38:29,877 - INFO -  * Restarting with stat
+2026-07-20 10:38:30,144 - WARNING -  * Debugger is active!
+2026-07-20 10:38:30,146 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 10:38:33,161 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 10:38:33,215 - INFO -  * Restarting with stat
+2026-07-20 10:38:33,541 - WARNING -  * Debugger is active!
+2026-07-20 10:38:33,543 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 10:42:44,379 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 10:42:44,419 - INFO -  * Restarting with stat
+2026-07-20 10:42:44,657 - WARNING -  * Debugger is active!
+2026-07-20 10:42:44,659 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 10:51:06,770 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.137:5000
+2026-07-20 10:51:06,771 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-20 10:51:06,772 - INFO -  * Restarting with stat
+2026-07-20 10:51:07,014 - WARNING -  * Debugger is active!
+2026-07-20 10:51:07,016 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 10:51:11,590 - INFO - Get All Users API called
+2026-07-20 10:51:11,611 - INFO - 127.0.0.1 - - [20/Jul/2026 10:51:11] "GET /users HTTP/1.1" 200 -
+2026-07-20 10:51:11,843 - INFO - 127.0.0.1 - - [20/Jul/2026 10:51:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-20 10:51:20,077 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 10:51:20,120 - INFO -  * Restarting with stat
+2026-07-20 10:51:20,385 - WARNING -  * Debugger is active!
+2026-07-20 10:51:20,387 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 10:51:26,369 - INFO - Get All Users API called
+2026-07-20 10:51:26,486 - INFO - 127.0.0.1 - - [20/Jul/2026 10:51:26] "GET /users HTTP/1.1" 200 -
+2026-07-20 11:15:17,345 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 11:15:17,407 - INFO -  * Restarting with stat
+2026-07-20 11:15:17,699 - WARNING -  * Debugger is active!
+2026-07-20 11:15:17,701 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 11:24:05,406 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 11:24:05,460 - INFO -  * Restarting with stat
+2026-07-20 11:24:05,753 - WARNING -  * Debugger is active!
+2026-07-20 11:24:05,755 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 11:24:23,812 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 11:24:23,858 - INFO -  * Restarting with stat
+2026-07-20 11:24:24,122 - WARNING -  * Debugger is active!
+2026-07-20 11:24:24,124 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 15:20:09,663 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.137:5000
+2026-07-20 15:20:09,664 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-20 15:20:09,665 - INFO -  * Restarting with stat
+2026-07-20 15:20:09,887 - WARNING -  * Debugger is active!
+2026-07-20 15:20:09,890 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 16:37:50,647 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.137:5000
+2026-07-20 16:37:50,648 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-20 16:37:50,649 - INFO -  * Restarting with stat
+2026-07-20 16:37:50,986 - WARNING -  * Debugger is active!
+2026-07-20 16:37:50,988 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 16:38:14,540 - INFO - Get User By ID API called
+2026-07-20 16:38:19,269 - INFO - Get User By ID API called
+2026-07-20 16:38:21,768 - INFO - 127.0.0.1 - - [20/Jul/2026 16:38:21] "GET /users/1 HTTP/1.1" 200 -
+2026-07-20 16:38:26,871 - INFO - 127.0.0.1 - - [20/Jul/2026 16:38:26] "GET /users/1 HTTP/1.1" 200 -
+2026-07-20 16:38:26,937 - INFO - 127.0.0.1 - - [20/Jul/2026 16:38:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-20 16:39:28,468 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 16:39:28,530 - INFO -  * Restarting with stat
+2026-07-20 16:39:28,855 - WARNING -  * Debugger is active!
+2026-07-20 16:39:28,858 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 16:39:29,871 - INFO -  * Detected change in 'C:\\Users\\KarthickrajaSaravana\\OneDrive - Truwave Software\\Desktop\\Python-Docker-Training\\python-docker-api\\app1.py', reloading
+2026-07-20 16:39:29,929 - INFO -  * Restarting with stat
+2026-07-20 16:39:30,271 - WARNING -  * Debugger is active!
+2026-07-20 16:39:30,273 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 16:40:47,627 - INFO - Get User By ID API called
+2026-07-20 16:40:47,999 - INFO - 127.0.0.1 - - [20/Jul/2026 16:40:47] "GET /users/1 HTTP/1.1" 200 -
+2026-07-20 16:40:48,713 - INFO - Get User By ID API called
+2026-07-20 16:47:54,164 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-20 16:47:54,165 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-20 16:47:54,166 - INFO -  * Restarting with stat
+2026-07-20 16:47:54,478 - WARNING -  * Debugger is active!
+2026-07-20 16:47:54,480 - INFO -  * Debugger PIN: 769-364-217
+2026-07-20 16:48:00,881 - INFO - 127.0.0.1 - - [20/Jul/2026 16:48:00] "GET / HTTP/1.1" 200 -
+2026-07-20 16:48:01,029 - INFO - 127.0.0.1 - - [20/Jul/2026 16:48:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-20 16:48:10,501 - INFO - Get All Users API called
+2026-07-20 16:48:10,925 - INFO - 127.0.0.1 - - [20/Jul/2026 16:48:10] "GET /users HTTP/1.1" 200 -
+2026-07-20 16:49:09,970 - INFO - 127.0.0.1 - - [20/Jul/2026 16:49:09] "GET / HTTP/1.1" 200 -
+2026-07-20 16:49:10,031 - INFO - 127.0.0.1 - - [20/Jul/2026 16:49:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-20 16:49:12,465 - INFO - 127.0.0.1 - - [20/Jul/2026 16:49:12] "GET / HTTP/1.1" 200 -
+2026-07-20 16:50:05,272 - INFO - 127.0.0.1 - - [20/Jul/2026 16:50:05] "[33mGET /user HTTP/1.1[0m" 404 -
+2026-07-20 16:50:10,866 - INFO - 127.0.0.1 - - [20/Jul/2026 16:50:10] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-07-20 16:50:15,037 - INFO - Get All Users API called
+2026-07-20 16:50:15,135 - INFO - 127.0.0.1 - - [20/Jul/2026 16:50:15] "GET /users HTTP/1.1" 200 -
+2026-07-20 16:50:15,177 - INFO - 127.0.0.1 - - [20/Jul/2026 16:50:15] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-07-21 09:30:20,919 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-21 09:30:20,920 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 09:30:20,923 - INFO -  * Restarting with stat
+2026-07-21 09:30:21,264 - WARNING -  * Debugger is active!
+2026-07-21 09:30:21,300 - INFO -  * Debugger PIN: 769-364-217
+2026-07-21 09:30:58,242 - INFO - 127.0.0.1 - - [21/Jul/2026 09:30:58] "GET / HTTP/1.1" 200 -
+2026-07-21 09:30:58,500 - INFO - 127.0.0.1 - - [21/Jul/2026 09:30:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-21 09:31:03,445 - INFO - Get All Users API called
+2026-07-21 09:31:03,657 - INFO - 127.0.0.1 - - [21/Jul/2026 09:31:03] "GET /users HTTP/1.1" 200 -
+2026-07-21 09:31:03,740 - INFO - 127.0.0.1 - - [21/Jul/2026 09:31:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-21 16:04:34,431 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-21 16:04:34,432 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 16:04:34,433 - INFO -  * Restarting with stat
+2026-07-21 16:04:34,800 - WARNING -  * Debugger is active!
+2026-07-21 16:04:34,802 - INFO -  * Debugger PIN: 769-364-217
+2026-07-21 16:39:37,403 - INFO - Get User By ID API called
+2026-07-21 16:39:37,822 - INFO - 127.0.0.1 - - [21/Jul/2026 16:39:37] "GET /users/5 HTTP/1.1" 200 -
+2026-07-21 16:39:48,658 - INFO - Get User By ID API called
+2026-07-21 16:39:50,442 - INFO - 127.0.0.1 - - [21/Jul/2026 16:39:50] "GET /users/6 HTTP/1.1" 200 -
+2026-07-21 16:39:56,635 - INFO - Get User By ID API called
+2026-07-21 16:39:56,996 - INFO - 127.0.0.1 - - [21/Jul/2026 16:39:56] "GET /users/2 HTTP/1.1" 200 -
+2026-07-21 17:28:58,945 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-21 17:28:58,945 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 17:28:58,947 - INFO -  * Restarting with stat
+2026-07-21 17:28:59,405 - WARNING -  * Debugger is active!
+2026-07-21 17:28:59,408 - INFO -  * Debugger PIN: 769-364-217
+2026-07-21 17:29:36,047 - INFO - Get All Users API called
+2026-07-21 17:29:36,232 - INFO - 127.0.0.1 - - [21/Jul/2026 17:29:36] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:30:05,057 - INFO - Get All Users API called
+2026-07-21 17:30:05,142 - INFO - 127.0.0.1 - - [21/Jul/2026 17:30:05] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:30:41,168 - INFO - Get All Users API called
+2026-07-21 17:30:41,266 - INFO - 127.0.0.1 - - [21/Jul/2026 17:30:41] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:30:46,066 - INFO - Get All Users API called
+2026-07-21 17:30:46,165 - INFO - 127.0.0.1 - - [21/Jul/2026 17:30:46] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:30:49,711 - INFO - Get All Users API called
+2026-07-21 17:30:49,836 - INFO - 127.0.0.1 - - [21/Jul/2026 17:30:49] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:31:08,393 - INFO - Get All Users API called
+2026-07-21 17:31:08,480 - INFO - 127.0.0.1 - - [21/Jul/2026 17:31:08] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:31:39,088 - INFO - Get All Users API called
+2026-07-21 17:31:39,173 - INFO - 127.0.0.1 - - [21/Jul/2026 17:31:39] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:31:44,247 - INFO - Get All Users API called
+2026-07-21 17:31:44,329 - INFO - 127.0.0.1 - - [21/Jul/2026 17:31:44] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:33:21,564 - INFO - Get All Users API called
+2026-07-21 17:33:21,686 - INFO - 127.0.0.1 - - [21/Jul/2026 17:33:21] "GET /users HTTP/1.1" 200 -
+2026-07-21 17:47:22,788 - INFO - 127.0.0.1 - - [21/Jul/2026 17:47:22] "GET / HTTP/1.1" 200 -
+2026-07-21 19:28:22,864 - INFO - 127.0.0.1 - - [21/Jul/2026 19:28:22] "GET / HTTP/1.1" 200 -
+2026-07-21 19:28:33,065 - INFO - 127.0.0.1 - - [21/Jul/2026 19:28:33] "GET / HTTP/1.1" 200 -
+2026-07-21 19:28:36,927 - INFO - 127.0.0.1 - - [21/Jul/2026 19:28:36] "GET / HTTP/1.1" 200 -
+2026-07-21 19:29:31,494 - INFO - 127.0.0.1 - - [21/Jul/2026 19:29:31] "GET / HTTP/1.1" 200 -
+2026-07-21 19:29:32,495 - INFO - 127.0.0.1 - - [21/Jul/2026 19:29:32] "GET / HTTP/1.1" 200 -
+2026-07-21 19:29:32,646 - INFO - 127.0.0.1 - - [21/Jul/2026 19:29:32] "GET / HTTP/1.1" 200 -
+2026-07-21 19:29:32,844 - INFO - 127.0.0.1 - - [21/Jul/2026 19:29:32] "GET / HTTP/1.1" 200 -
+2026-07-21 19:30:38,471 - INFO - 127.0.0.1 - - [21/Jul/2026 19:30:38] "GET / HTTP/1.1" 200 -
+2026-07-21 19:30:40,248 - INFO - 127.0.0.1 - - [21/Jul/2026 19:30:40] "GET / HTTP/1.1" 200 -
+2026-07-21 19:30:41,141 - INFO - 127.0.0.1 - - [21/Jul/2026 19:30:41] "GET / HTTP/1.1" 200 -
+2026-07-21 19:30:41,368 - INFO - 127.0.0.1 - - [21/Jul/2026 19:30:41] "GET / HTTP/1.1" 200 -
+2026-07-21 19:30:58,404 - INFO - 127.0.0.1 - - [21/Jul/2026 19:30:58] "GET / HTTP/1.1" 200 -
+2026-07-21 19:32:43,900 - INFO - 127.0.0.1 - - [21/Jul/2026 19:32:43] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:04,960 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:04] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:27,160 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:27] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:28,097 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:28] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:28,243 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:28] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:28,376 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:28] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:28,520 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:28] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:28,647 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:28] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:28,793 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:28] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:28,947 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:28] "GET / HTTP/1.1" 200 -
+2026-07-21 19:33:29,127 - INFO - 127.0.0.1 - - [21/Jul/2026 19:33:29] "GET / HTTP/1.1" 200 -
+2026-07-21 19:40:54,793 - INFO - 127.0.0.1 - - [21/Jul/2026 19:40:54] "GET / HTTP/1.1" 200 -
+2026-07-21 19:40:56,417 - INFO - 127.0.0.1 - - [21/Jul/2026 19:40:56] "GET / HTTP/1.1" 200 -
+2026-07-21 19:40:56,555 - INFO - 127.0.0.1 - - [21/Jul/2026 19:40:56] "GET / HTTP/1.1" 200 -
+2026-07-21 19:40:56,715 - INFO - 127.0.0.1 - - [21/Jul/2026 19:40:56] "GET / HTTP/1.1" 200 -
+2026-07-21 19:40:56,844 - INFO - 127.0.0.1 - - [21/Jul/2026 19:40:56] "GET / HTTP/1.1" 200 -
+2026-07-21 19:41:00,494 - INFO - 127.0.0.1 - - [21/Jul/2026 19:41:00] "GET / HTTP/1.1" 200 -
+2026-07-21 19:41:11,926 - INFO - 127.0.0.1 - - [21/Jul/2026 19:41:11] "GET / HTTP/1.1" 200 -
+2026-07-21 19:41:13,365 - INFO - 127.0.0.1 - - [21/Jul/2026 19:41:13] "GET / HTTP/1.1" 200 -
+2026-07-21 19:41:13,586 - INFO - 127.0.0.1 - - [21/Jul/2026 19:41:13] "GET / HTTP/1.1" 200 -
+2026-07-21 19:41:14,520 - INFO - 127.0.0.1 - - [21/Jul/2026 19:41:14] "GET / HTTP/1.1" 200 -
+2026-07-21 19:41:14,713 - INFO - 127.0.0.1 - - [21/Jul/2026 19:41:14] "GET / HTTP/1.1" 200 -
+2026-07-21 20:03:29,337 - INFO - Get All Users API called
+2026-07-21 20:03:29,600 - INFO - 127.0.0.1 - - [21/Jul/2026 20:03:29] "GET /users HTTP/1.1" 200 -
+2026-07-21 20:19:40,477 - INFO - Get All Users API called
+2026-07-21 20:19:40,712 - INFO - 127.0.0.1 - - [21/Jul/2026 20:19:40] "GET /users HTTP/1.1" 200 -
+2026-07-21 20:32:58,168 - INFO - Get All Users API called
+2026-07-21 20:32:58,414 - INFO - 127.0.0.1 - - [21/Jul/2026 20:32:58] "GET /users HTTP/1.1" 200 -
+2026-07-21 20:33:00,446 - INFO - Get All Users API called
+2026-07-21 20:33:00,656 - INFO - 127.0.0.1 - - [21/Jul/2026 20:33:00] "GET /users HTTP/1.1" 200 -
+2026-07-22 11:10:29,226 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-22 11:10:29,227 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-22 11:10:29,228 - INFO -  * Restarting with stat
+2026-07-22 11:10:29,617 - WARNING -  * Debugger is active!
+2026-07-22 11:10:29,620 - INFO -  * Debugger PIN: 722-568-957
+2026-07-22 11:13:41,841 - INFO - Get All Users API called
+2026-07-22 11:13:42,063 - INFO - 127.0.0.1 - - [22/Jul/2026 11:13:42] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:04:29,479 - INFO - Get All Users API called
+2026-07-22 12:04:29,613 - INFO - 127.0.0.1 - - [22/Jul/2026 12:04:29] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:11:05,661 - INFO - 127.0.0.1 - - [22/Jul/2026 12:11:05] "GET / HTTP/1.1" 200 -
+2026-07-22 12:11:05,708 - INFO - 127.0.0.1 - - [22/Jul/2026 12:11:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-22 12:11:14,527 - INFO - Get All Users API called
+2026-07-22 12:11:14,692 - INFO - 127.0.0.1 - - [22/Jul/2026 12:11:14] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:16:31,912 - INFO - Get All Users API called
+2026-07-22 12:16:32,010 - INFO - 127.0.0.1 - - [22/Jul/2026 12:16:32] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:16:33,394 - INFO - Get All Users API called
+2026-07-22 12:16:33,474 - INFO - 127.0.0.1 - - [22/Jul/2026 12:16:33] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:16:54,392 - INFO - Get All Users API called
+2026-07-22 12:16:54,494 - INFO - 127.0.0.1 - - [22/Jul/2026 12:16:54] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:16:55,673 - INFO - Get All Users API called
+2026-07-22 12:16:55,767 - INFO - 127.0.0.1 - - [22/Jul/2026 12:16:55] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:31:54,227 - INFO - Get User By ID API called
+2026-07-22 12:31:55,677 - INFO - 127.0.0.1 - - [22/Jul/2026 12:31:55] "GET /users/1 HTTP/1.1" 200 -
+2026-07-22 12:55:21,409 - INFO - Get All Users API called
+2026-07-22 12:55:21,505 - INFO - 127.0.0.1 - - [22/Jul/2026 12:55:21] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:55:21,602 - INFO - Get All Users API called
+2026-07-22 12:55:21,682 - INFO - 127.0.0.1 - - [22/Jul/2026 12:55:21] "GET /users HTTP/1.1" 200 -
+2026-07-22 12:58:55,804 - INFO - Get All Users API called
+2026-07-22 12:58:55,905 - INFO - 127.0.0.1 - - [22/Jul/2026 12:58:55] "GET /users HTTP/1.1" 200 -
+2026-07-22 13:16:00,884 - INFO - Get User By ID API called
+2026-07-22 13:16:01,262 - INFO - 127.0.0.1 - - [22/Jul/2026 13:16:01] "GET /users/2 HTTP/1.1" 200 -
+2026-07-22 16:08:46,437 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-22 16:08:46,438 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-22 16:08:46,440 - INFO -  * Restarting with stat
+2026-07-22 16:08:46,788 - WARNING -  * Debugger is active!
+2026-07-22 16:08:46,793 - INFO -  * Debugger PIN: 722-568-957
+2026-07-22 16:43:58,593 - INFO - Get User By ID API called
+2026-07-22 16:44:02,178 - INFO - 127.0.0.1 - - [22/Jul/2026 16:44:02] "GET /users/2 HTTP/1.1" 200 -
+2026-07-24 09:42:20,437 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-24 09:42:20,438 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-24 09:42:20,442 - INFO -  * Restarting with stat
+2026-07-24 09:42:20,862 - WARNING -  * Debugger is active!
+2026-07-24 09:42:20,866 - INFO -  * Debugger PIN: 722-568-957
+2026-07-24 10:08:24,354 - INFO - Get User By ID API called
+2026-07-24 10:08:24,827 - INFO - 127.0.0.1 - - [24/Jul/2026 10:08:24] "GET /users/5 HTTP/1.1" 200 -
+2026-07-28 12:29:15,353 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.137:8080
+2026-07-28 12:29:15,354 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-28 12:29:15,356 - INFO -  * Restarting with stat
+2026-07-28 12:29:15,712 - WARNING -  * Debugger is active!
+2026-07-28 12:29:15,715 - INFO -  * Debugger PIN: 131-007-004

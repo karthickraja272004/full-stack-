@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Karthick",
+        "role": "DevOps Engineer",
+        "org": "Truwave Softwares",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Rahul",
+        "role": "Python Developer",
+        "org": "ABC Technologies",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "Priya",
+        "role": "Cloud Engineer",
+        "org": "XYZ Solutions",
+        "status": "inactive"
+    }
+]
