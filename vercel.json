@@ -1,0 +1,26 @@
+{
+  "services": {
+    "frontend": {
+      "root": "django-frontend/",
+      "entrypoint": "Dockerfile.vercel"
+    },
+    "backend": {
+      "root": "python-docker-api/",
+      "entrypoint": "Dockerfile.vercel"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": {
+        "service": "backend"
+      }
+    },
+    {
+      "source": "/(.*)",
+      "destination": {
+        "service": "frontend"
+      }
+    }
+  ]
+}
