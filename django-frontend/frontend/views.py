@@ -4,24 +4,52 @@ from django.shortcuts import render
 
 
 def all_users(request):
-    response = requests.get(settings.BACKEND_URL + "/users")
+    try:
+        print("=" * 50)
+        print("Inside all_users()")
+        print("BACKEND_URL:", settings.BACKEND_URL)
 
-    data = response.json()
+        response = requests.get(settings.BACKEND_URL + "/users")
 
-    context = {
-        "users": data["users"]
-    }
+        print("Status Code:", response.status_code)
+        print("Response Text:", response.text)
 
-    return render(request, "home.html", context)
+        data = response.json()
+
+        print("JSON Data:", data)
+
+        context = {
+            "users": data["users"]
+        }
+
+        return render(request, "home.html", context)
+
+    except Exception as e:
+        print("ERROR in all_users():", repr(e))
+        raise
 
 
 def user_detail(request, user_id):
-    response = requests.get(f"{settings.BACKEND_URL}/users/{user_id}")
+    try:
+        print("=" * 50)
+        print("Inside user_detail()")
+        print("BACKEND_URL:", settings.BACKEND_URL)
 
-    data = response.json()
+        response = requests.get(f"{settings.BACKEND_URL}/users/{user_id}")
 
-    context = {
-        "user": data
-    }
+        print("Status Code:", response.status_code)
+        print("Response Text:", response.text)
 
-    return render(request, "user_detail.html", context)
+        data = response.json()
+
+        print("JSON Data:", data)
+
+        context = {
+            "user": data
+        }
+
+        return render(request, "user_detail.html", context)
+
+    except Exception as e:
+        print("ERROR in user_detail():", repr(e))
+        raise
